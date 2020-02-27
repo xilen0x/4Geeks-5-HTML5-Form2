@@ -1,0 +1,17 @@
+body{
+    background-color: darkolivegreen;
+}
+
+.card{
+    margin-top: 20px;
+}
+
+.color_h{
+    background-color: #ffa700;
+}
+input{
+    margin-bottom: 10px;
+}
+#btnFcbk{
+    margin-left: 10px;
+}
